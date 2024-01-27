@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en"/>
+<!DOCTYPE html
+html lang="en"/>
 <head>
     <meta charset="utf=8">
     <title font face="arial black" color="black" size="10">
