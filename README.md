@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en"
 <head>
-    <meta charset="utf=8"
+    <meta charset="utf=8">
     <title font face="arial black" color="black" size="10">
    WELCOME TO MY WEBSITE
     </title>
