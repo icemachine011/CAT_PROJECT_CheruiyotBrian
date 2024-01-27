@@ -1,5 +1,5 @@
-<!DOCTYPE html
-html lang="en"/>
+<!DOCTYPE html>
+<html lang="en"/>
 <head>
     <meta charset="utf=8">
     <title font face="arial black" color="black" size="10">
@@ -18,7 +18,7 @@ html lang="en"/>
                 &nbsp; &nbsp; &nbsp;
                 <a href="#">CONTACT US</a>
             
-            </font>
+  </font>
         </h3>
         <br/><br/><br/><br/>
         <h1 align="center">
@@ -37,3 +37,4 @@ html lang="en"/>
         </h3>
     </body>
 </head>
+</html>
