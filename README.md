@@ -1,6 +1,6 @@
 # CAT_PROJECT_CheruiyotBrian
 <!DOCTYPE html>
-<html lang="en"
+<html lang="en">
 <head>
     <meta charset="utf=8">
     <title font face="arial black" color="black" size="10">
